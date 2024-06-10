@@ -1,6 +1,6 @@
 
 .c-item{
-  height: 480px;
+  height: 590px;
 
 }
 
@@ -25,4 +25,9 @@
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
   font-weight: bold;  
   color: white;
+}
+
+.paragraph-text{
+  font-size: larger;
+  line-height: 2em;
 }
